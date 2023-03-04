@@ -22,3 +22,11 @@ console.log(novaOperacao)
 
 const alura = "Alura";
 console.log(alura * primeiroNumero)
+
+// Conta Matemática
+
+const soma = 4 + 30;
+const multiplicação = 4 * 34;
+const operação = (soma + multiplicação) + 20;
+
+console.log(operação)
