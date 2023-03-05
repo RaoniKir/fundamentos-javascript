@@ -8,4 +8,4 @@ const idadeCliente = 20;
 } */
 
             //condição                    //true     //false
-console.log(idadeCliente >= idadeMinima ? "cerveja" : "suco") 
+console.log(idadeCliente >= idadeMinima ? "cerveja" : "suco")
