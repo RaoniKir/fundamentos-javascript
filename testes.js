@@ -64,7 +64,7 @@ function cumprimentaPessoa(pessoa){
 }
    console.log(operacaoMatematica(15, 30, 45))
 
-   //
+   // Teste de parâmetro
    function comParametro(param) {
     console.log(param)
 }
